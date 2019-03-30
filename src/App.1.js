@@ -1,18 +1,18 @@
-import React from 'react';
-// import PropTypes from 'prop-types';
+import React from 'react'
+// import PropTypes from 'prop-types'
 
 // ↓クラスコンポーネント
 // class App extends Component {
 //   render() {
-//     return <div>Hello World!!</div>;
+//     return <div>Hello World!!</div>
 //   }
 
 //   // classはjsの予約語なので、classNameに置き換えて、DOMを書く
 
 //   // render() {
-//   //   const greeting = "Hi!";
-//   //   const dom = <div className="foo">{greeting}</div>;
-//   //   return dom;
+//   //   const greeting = "Hi!"
+//   //   const dom = <div className="foo">{greeting}</div>
+//   //   return dom
 //   // }
 
 //   // jsxを使わない場合
@@ -55,4 +55,4 @@ const User = (props) => {
 //   age: PropTypes.number.isRequired
 // }
 
-export default App;
+export default App
